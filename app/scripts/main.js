@@ -2,7 +2,8 @@ require.config({
 	paths : {
 		"jquery" : "../vendor/jquery/jquery",
 		"backbone" : "../vendor/backbone/backbone",
-		"underscore" : "../vendor/underscore/underscore"
+		"underscore" : "../vendor/underscore/underscore",
+		"bbFauxServer" : "../vendor/backbone-faux-server/backbone-faux-server"
 	},
 	shim : {
 		"backbone" : {

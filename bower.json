@@ -8,6 +8,7 @@
 		"jquery": null,
 		"underscore": null,
 		"requirejs": null,
-		"backbone" : null
+		"backbone" : null,
+		"backbone-faux-server" : null
 	}
 }
