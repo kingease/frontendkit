@@ -1,0 +1,13 @@
+{
+  "name": "client package",
+  "version": "0.0.0",
+  "description": "the tools for client development",
+  "license": "MIT",
+  "private": true,
+	"dependencies": {
+		"jquery": null,
+		"underscore": null,
+		"requirejs": null,
+		"backbone" : null
+	}
+}
