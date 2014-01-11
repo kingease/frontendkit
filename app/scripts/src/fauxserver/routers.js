@@ -1,4 +1,4 @@
-define(["../../vendor/backbone-faux-server/backbone-faux-server"], function (bbFauxServer) {
+define(["../../../vendor/backbone-faux-server/backbone-faux-server"], function (bbFauxServer) {
 	console.log("begin setting up faux server.");
 	console.log("backbone-faux-server's version :" + bbFauxServer.getVersion());
 

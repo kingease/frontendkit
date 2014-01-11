@@ -4,11 +4,11 @@
   "description": "the tools for client development",
   "license": "MIT",
   "private": true,
-	"dependencies": {
-		"jquery": null,
-		"underscore": null,
-		"requirejs": null,
-		"backbone" : null,
-		"backbone-faux-server" : null
-	}
+  "dependencies": {
+    "jquery": "~2.0.3",
+    "underscore": "~1.5.2",
+    "requirejs": "~2.1.10",
+    "backbone": "~1.0.0",
+    "backbone-faux-server": "~0.10.1"
+  }
 }
